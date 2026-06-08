@@ -1,0 +1,22 @@
+{
+  "compatibility": {
+    "projectIndependent": true
+  },
+  "components": {
+    "agents": [],
+    "skills": [],
+    "views": [
+      {
+        "id": "hello-locus-view",
+        "path": "views/hello-locus-view"
+      }
+    ]
+  },
+  "dependencies": {
+    "project": []
+  },
+  "id": "hello-locus-view",
+  "name": "Hello Locus View",
+  "schemaVersion": 1,
+  "version": "0.1.0"
+}

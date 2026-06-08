@@ -1,0 +1,19 @@
+{
+  "schema": "locus.view.v1",
+  "apiVersion": "v0.3.2",
+  "id": "hello-locus-view",
+  "name": "Hello Locus View",
+  "version": "0.1.0",
+  "template": "blank",
+  "displayPath": "Hello Locus View",
+  "icon": "View",
+  "entry": "src/main.ts",
+  "style": "src/style.css",
+  "scripts": [],
+  "capabilities": {
+    "unity": false
+  },
+  "requirements": {
+    "unityConnection": false
+  }
+}
